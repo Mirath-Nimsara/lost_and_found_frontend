@@ -1,6 +1,5 @@
 # Lost and Found System – Frontend (React + TypeScript)
 
-This is the frontend component of the **Lost and Found Management System**, developed as part of the **CMJD coursework** (Batch 108/109). The system enables users of an educational institute to report and search for lost and found items with full role-based access.
 
 ---
 
@@ -105,14 +104,5 @@ Make sure CORS is enabled in your Spring Boot backend for `http://localhost:3000
 | Found item reporting & claiming        | ✅ Done |
 | Claim tracking (user & staff)          | ✅ Done |
 | Bootstrap styling & layout             | ✅ Done |
-
----
-
-## 📝 Coursework Reference
-
-**Assignment**: Frontend Development  
-**Framework**: React + TypeScript  
-**Course**: CMJD – Comprehensive Master Java Developer  
-**Batch**: 108 / 109
 
 ---
